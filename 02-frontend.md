@@ -155,4 +155,4 @@ export default Counter;
 
 ---
 
-[← Kembali: Pendahuluan](./01-pendahuluan.md) | [⏭️ Lanjut: Backend Development →](./03-backend.md)
+[← Kembali: Pendahuluan](./01-pendahuluan.md) | [⏭️ Lanjut: Backend Development →](./03-Backend.md)
