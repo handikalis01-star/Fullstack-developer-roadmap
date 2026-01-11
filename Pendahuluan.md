@@ -1,6 +1,6 @@
-#📖 Bab 1: Pendahuluan
+# 📖 Bab 1: Pendahuluan
 
-##Apa itu Fullstack Developer?
+## Apa itu Fullstack Developer?
 
 **Fullstack Developer** adalah developer yang mampu mengerjakan:
 - **Frontend** (tampilan yang dilihat user)
