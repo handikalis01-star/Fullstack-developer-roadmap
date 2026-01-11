@@ -8,7 +8,7 @@
 
 ```
 ┌─────────────────────────────────────────────────┐
-│                   FULLSTACK                      │
+│                   FULLSTACK                     │
 ├────────────────────┬────────────────────────────┤
 │     FRONTEND       │         BACKEND            │
 │  (User Interface)  │    (Server & Database)     │
